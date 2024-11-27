@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "35",
+      "product": "Saree",
+      "description": "Free shipping",
+      "longdescription": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n WITH INBUILT SEQUENCE WORK ALL OVER  \n THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE  \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img5.jpeg",
+      "mediaType": "image",
+      "category": "Saree",
+      "price": "🔥🔥🔥Price : 1200/- + free shipping",
+      "stock": "10"
+    },
+    {
+      "id": "35",
+      "product": "Saree",
+      "description": "Free shipping",
+      "longdescription": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n WITH INBUILT SEQUENCE WORK ALL OVER  \n THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE  \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img5.jpeg",
+      "mediaType": "image",
+      "category": "Saree",
+      "price": "🔥🔥🔥Price : 1200/- + free shipping",
+      "stock": "10"
+    },
+    {
+      "id": "wert",
+      "product": "edrytfy",
+      "description": "erdtfhyu",
+      "longdescription": "rtfjkl",
+      "category": "Kids",
+      "price": "858",
+      "stock": 5
+    },
+    {
+      "id": "",
+      "product": "wred",
+      "description": "wserfdft",
+      "longdescription": "wredrt",
+      "category": "Kids",
+      "price": "757",
+      "stock": 545
+    },
+    {
+      "id": "23ce",
+      "product": "erdhjk",
+      "description": "sdfehj",
+      "longdescription": "sefdhj",
+      "category": "Jewell",
+      "price": "875",
+      "stock": 8
+    },
+    {
+      "id": "170e",
+      "product": "trh",
+      "description": "erfgtfh",
+      "longdescription": "erfgth",
+      "image": "C:\\fakepath\\WIN_20240226_14_59_15_Pro.jpg",
+      "category": "Kids",
+      "price": "85285",
+      "stock": 25
+    }
+  ]
+}
